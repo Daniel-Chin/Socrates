@@ -16,6 +16,7 @@ When the prof asks a question, he/she can click "choose", and the system will ch
 Random cold calling {
 - Forces every student to focus
 - Gives the prof an easy time to pick students
+
 }. 
 
 Rating willingness to answer and picking the highest avoids the kind of situations where a student gets picked, has nothing to say, and BS for quite some time, wasting everyone's time. 
