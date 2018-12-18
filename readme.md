@@ -1,6 +1,6 @@
 # Socrates
 
-@Vincent-Seb-Wu and I made this app for Application Lab, a course at NYU Shanghai, during sophomore year. 
+[@Vincent-Seb-Wu](https://github.com/vincent-Seb-Wu/) and I made this app for Application Lab, a course at NYU Shanghai, during sophomore year. 
 
 ## What is Socrates? 
 
@@ -14,8 +14,8 @@ When the prof asks a question, he/she can click "choose", and the system will ch
 ## What's good about it? 
 
 Random cold calling {
-    Forces every student to focus
-    Gives the prof an easy time to pick students
+- Forces every student to focus
+- Gives the prof an easy time to pick students
 }. 
 
 Rating willingness to answer and picking the highest avoids the kind of situations where a student gets picked, has nothing to say, and BS for quite some time, wasting everyone's time. 
