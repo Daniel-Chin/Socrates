@@ -1,0 +1,84 @@
+.App {
+  text-align: center;
+  background-color: #f90;
+  width: 100vw;
+  height: 100vh;
+  font-size: 6vw;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+button {
+  background-color: #08f;
+  font-size: 6vw;
+  padding: 5px 4vw;
+  margin: 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: 0.3s;
+  border: dashed 6px;
+  border-color: rgba(0, 0, 0, 0);
+  user-select: none;
+} button:hover {
+  background-color: #0bf;
+  transform: scale(1.1);
+} button:focus {
+  border-color: white;
+} button:active {
+  background-color: white;
+  transform: scale(0.9);
+}
+
+.vertical-center {
+  line-height: 100vh;
+  height: 95vh;
+}
+
+#username {
+    height: 5vh;
+    font-size: 3vh;
+}
+
+.flex {
+  display: flex;
+  flex-direction: column;
+  height: 95vh;
+} .flex > div {
+  flex-grow: 1;
+  position: relative;
+} .flex > div > div {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100vw;
+}
+
+.double-font {
+  font-size: 150%;
+}
+
+input {
+    font-size: 4vw;
+    background-color: rgba(255,255,255,0.3);
+    border-radius: 2vw;
+    padding: 1vw;
+    outline: none;
+    font-family: 'comic sans ms', 'papyrus', sans-serif;
+}
+
+.star {
+    transfrom: scale(2);
+    width: 6vw;
+    cursor: pointer;
+    transition: 0.3s;
+    background-color: rgba(255,255,255, 0.3);
+    margin: 0.5vw;
+    user-select: none;
+    border-radius: 1vw;
+    padding: 0.4vw;
+} .star:hover {
+    transform: translate(0, -1vw);
+} .star:active {
+    transform: translate(0, 0);
+}
